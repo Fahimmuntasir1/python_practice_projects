@@ -1,9 +1,9 @@
 
-# Drawing a Alfabet 'F' letter with python language
+# Play with Python
 
 Hey there!
 
-Here I'm write a simple code to drawing 'F' letter .
+Here I'm practice some simple code to do some shape with python language.
 
 You can do this easily follow this -
 
